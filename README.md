@@ -36,5 +36,5 @@ Now get inside the project directory from cmd <code>cd /d H:\docker\laravel\lara
 
 Now run <code>docker ps</code> to see all 3 container named <i>laravel_nginx, laravel_app</i> & <i>laravel_db</i> is running or not.
 
-If running thrn browse it <b>http://localhost:8000/</b> you can see Laravel <b>Let's get started</b> page.
+If running then browse it <b>http://localhost:8000/</b> you can see Laravel <b>Let's get started</b> page.
 <img width="958" height="773" alt="image" src="https://github.com/user-attachments/assets/5c8f04f6-3553-4fdf-8f24-a22e80b0f920" />
