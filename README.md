@@ -18,6 +18,7 @@ Composer creates up a new project <b>laravel-docker</b>  <br>
 
 Now from File Explorer get inside <b>laravel-docker</b> folder then downlaod and place these files there:
 <ul>
+  <li>.env</li>
   <li>Dockerfile</li>
   <li>docker-compose.yml</li>
   <li>nginx.conf</li>
